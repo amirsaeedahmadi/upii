@@ -1,0 +1,409 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-02 16:14+0330\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: config/settings/base.py:45
+msgid "English"
+msgstr "انگلیسی"
+
+#: config/settings/base.py:46
+msgid "Farsi"
+msgstr "فارسی"
+
+#: users/apps.py:8
+msgid "Users"
+msgstr "کاربران"
+
+#: users/models/admin.py:17
+msgid "Pending Verification Request"
+msgstr "درخواست‌ احراز هویت کابر در حال انتظار"
+
+#: users/models/admin.py:18
+msgid "Pending Verification Requests"
+msgstr "درخواست‌ احراز هویت کاربران در حال انتظار"
+
+#: users/models/base.py:18
+msgid "View users"
+msgstr ""
+
+#: users/models/base.py:19
+msgid "Add or change users"
+msgstr ""
+
+#: users/models/base.py:23
+msgid "Accountable for verification requests"
+msgstr "درخواست‌ احراز هویت کاربران در حال انتظار"
+
+#: users/models/base.py:24
+msgid "Accountable for tickets"
+msgstr ""
+
+#: users/models/base.py:102
+msgid "Email"
+msgstr "ایمیل"
+
+#: users/models/base.py:105
+msgid "Email Verified"
+msgstr "تایید ایمیل انجام شده"
+
+#: users/models/base.py:108
+msgid "Email Verified At"
+msgstr "تاریخ تایید ایمیل"
+
+#: users/models/base.py:113
+msgid "Mobile"
+msgstr "موبایل"
+
+#: users/models/base.py:117
+msgid "Mobile Verified"
+msgstr "تایید موبایل انجام شده"
+
+#: users/models/base.py:120
+msgid "Mobile Verified At"
+msgstr "تاریخ تایید موبایل"
+
+#: users/models/base.py:125 users/models/company.py:24
+msgid "National Code"
+msgstr "شناسه ملی"
+
+#: users/models/base.py:129
+msgid "Shahkar Verified"
+msgstr "تایید شاهکار انجام شده"
+
+#: users/models/base.py:132
+msgid "Shahkar Verified At"
+msgstr "تاریخ تایید شاهکار"
+
+#: users/models/base.py:135
+msgid "Shahkar Response Detail"
+msgstr "جزییات پاسخ شاهکار"
+
+#: users/models/base.py:140 users/models/company.py:38
+msgid "Postal Code"
+msgstr "کد پستی"
+
+#: users/models/base.py:144 users/models/company.py:42
+msgid "Postal Address"
+msgstr "آدرس پستی"
+
+#: users/models/base.py:147
+msgid "Avatar"
+msgstr "عکس پروفایل"
+
+#: users/models/base.py:150
+msgid "Avatar Updated At"
+msgstr "تاریخ بروزرسانی عکس پروفایل"
+
+#: users/models/base.py:157
+msgid "Username"
+msgstr "نام کاربری"
+
+#: users/models/base.py:160
+msgid "Identity Verified"
+msgstr "تایید هویت انجام شده"
+
+#: users/models/base.py:163
+msgid "Identity Verified At"
+msgstr "تاریخ تایید هویت"
+
+#: users/models/base.py:171
+msgid "Identity Verified By"
+msgstr "تاییدکننده هویت"
+
+#: users/models/company.py:20
+msgid "User"
+msgstr "کاربر"
+
+#: users/models/company.py:22
+msgid "Name"
+msgstr "نام"
+
+#: users/models/company.py:27
+msgid "Registry Code"
+msgstr "شماره ثبت"
+
+#: users/models/company.py:30
+msgid "Eco. Number"
+msgstr "کد اقتصادی"
+
+#: users/models/company.py:33
+msgid "Phone"
+msgstr "تلفن"
+
+#: users/models/company.py:44
+msgid "Size"
+msgstr "تعداد پرسنل"
+
+#: users/models/company.py:46
+msgid "Activity Field"
+msgstr "زمینه فعالیت"
+
+#: users/models/company.py:51
+msgid "CEO Mobile"
+msgstr "موبایل مدیرعامل"
+
+#: users/models/company.py:55
+msgid "CEO Mobile Verified"
+msgstr "تایید موبایل مدیرعامل انجام شده"
+
+#: users/models/company.py:58
+msgid "CEO Mobile Verified At"
+msgstr "تاریخ تایید موبایل مدیرعامل"
+
+#: users/models/company.py:63
+msgid "CEO National Code"
+msgstr "کد ملی مدیرعامل"
+
+#: users/models/company.py:67
+msgid "CEO Shahkar Verified"
+msgstr "تایید شاهکار مدیرعامل انجام شده"
+
+#: users/models/company.py:70
+msgid "CEO Shahkar Verified At"
+msgstr "تاریخ تایید شاهکار مدیرعامل"
+
+#: users/models/company.py:73
+msgid "CEO Shahkar Response"
+msgstr "جزییات پاسخ شاهکار مدیرعامل"
+
+#: users/models/company.py:76 users/models/verification.py:85
+msgid "Verified"
+msgstr "تایید شده"
+
+#: users/models/company.py:79
+msgid "Verified At"
+msgstr "تاریخ تایید"
+
+#: users/models/company.py:83
+msgid "Company"
+msgstr "شرکت"
+
+#: users/models/company.py:84
+msgid "Companies"
+msgstr "شرکت‌ها"
+
+#: users/models/verification.py:26
+msgid "National ID Card"
+msgstr "کارت ملی"
+
+#: users/models/verification.py:26
+msgid "Founded Ad"
+msgstr "آگهی تاسیس"
+
+#: users/models/verification.py:76
+msgid "Documents"
+msgstr "مدارک"
+
+#: users/models/verification.py:82
+msgid "Sent"
+msgstr "ارسال شده"
+
+#: users/models/verification.py:83
+msgid "Inspecting"
+msgstr "در حال بررسی"
+
+#: users/models/verification.py:84
+msgid "Rejected"
+msgstr "رد شده"
+
+#: users/models/verification.py:88
+msgid "Status"
+msgstr "وضعیت"
+
+#: users/models/verification.py:92
+msgid "Inspected at"
+msgstr "تاریخ بررسی"
+
+#: users/models/verification.py:100
+msgid "Accountable"
+msgstr ""
+
+#: users/models/verification.py:104
+msgid "This field is not shown to the user"
+msgstr "این فیلد به کاربر نمایش داده نمی‌شود"
+
+#: users/models/verification.py:105
+msgid "Accountable note"
+msgstr ""
+
+#: users/models/verification.py:108
+msgid "Accountable comment"
+msgstr ""
+
+#: users/models/verification.py:110
+msgid "User comment"
+msgstr "کامنت کاربر"
+
+#: users/serializers/avatar.py:25
+#, python-brace-format
+msgid "Avatar file size must be less than {size} MB."
+msgstr " حجم فایل عکس نباید بیشتر از {size} باشد."
+
+#: users/serializers/avatar.py:29
+msgid "Invalid image file."
+msgstr "فایل عکس نامعتبر"
+
+#: users/serializers/verification.py:46
+#, python-brace-format
+msgid "Document file size must be less than {size} MB."
+msgstr " حجم فایل نباید بیشتر از {size} باشد."
+
+#: users/serializers/verification.py:50
+msgid "Documents must be either a picture or PDF."
+msgstr "مدارک باید از نوع عکس یا PDF باشند"
+
+#: users/serializers/verification.py:126
+msgid "This field may not be empty, when status is REJECTED."
+msgstr ""
+
+#: users/serializers/verification.py:144
+msgid "Request already inspected"
+msgstr ""
+
+#: users/serializers/verification.py:156
+msgid "User already verified"
+msgstr ""
+
+#: users/validators.py:25
+msgid "Enter a valid business email address."
+msgstr "لطفا ایمیل سازمانی معتبر وارد کنید"
+
+#: users/validators.py:34 users/validators.py:39 users/validators.py:44
+msgid "Invalid mobile number"
+msgstr "نامعتبر"
+
+#: users/validators.py:51 users/validators.py:55 users/validators.py:59
+msgid "Invalid phone number"
+msgstr "نامعتبر"
+
+#: users/validators.py:67 users/validators.py:75 users/validators.py:80
+#: users/validators.py:86
+msgid "Invalid national code"
+msgstr "نامعتبر"
+
+#: users/validators.py:93
+msgid "Invalid postal code"
+msgstr "نامعتبر"
+
+#: users/views/availability.py:57
+msgid "Username changed successfully."
+msgstr "نام کاربری با موفقیت تغییر یافت"
+
+#: users/views/company.py:67 users/views/me.py:124
+#, python-brace-format
+msgid "Shahkar for \"{code}\" on \"{mobile}\" is already verified."
+msgstr ""
+
+#: users/views/company.py:103 users/views/company.py:139
+#, fuzzy, python-brace-format
+#| msgid "Email address \"{email}\" is already verified."
+msgid "Mobile number \"{mobile}\" is already verified."
+msgstr "آدرس ایمیل \"{email}\" قبلا احراز شده است"
+
+# users/views/company.py:81 users/views/company.py:105
+# python-brace-format
+# msgid "Mobile number \"{mobile}\" is already verified."
+# msgstr "شماره موبایل \"{email}\" قبلا احراز شده است"
+#: users/views/company.py:154 users/views/me.py:114
+msgid "Wrong code."
+msgstr "کد اشتباه"
+
+#: users/views/login.py:38
+msgid "User already exists."
+msgstr ""
+
+#: users/views/login.py:76
+msgid "Logged out successfully."
+msgstr "خروج با موفقیت انجام شد"
+
+#: users/views/me.py:39
+msgid "User does not exist."
+msgstr ""
+
+#: users/views/me.py:66 users/views/me.py:96
+#, python-brace-format
+msgid "Email address \"{email}\" is already verified."
+msgstr "آدرس ایمیل \"{email}\" قبلا احراز شده است"
+
+#: users/views/password.py:33 users/views/password.py:87
+msgid "Password changed successfully."
+msgstr "رمز عبور با موفقیت تغییر یافت"
+
+#: users/views/password.py:38
+msgid "Current password is wrong."
+msgstr "رمز عبور کنونی اشتباه است"
+
+#: users/views/password.py:92
+msgid "Wrong code or email"
+msgstr "ایمیل یا کد اشتباه است"
+
+#: users/views/verification.py:110
+msgid "No documents."
+msgstr "مدرکی ارسال نشده است"
+
+#: users/views/verification.py:124
+msgid "Status Error"
+msgstr "خطای وضعیت"
+
+#: users/views/verification.py:133
+msgid "This url param is required."
+msgstr ""
+
+#: users/views/verification.py:161
+msgid ""
+"No one new was assigned. This may be because no accountable exists, or the "
+"request is already rejected or verified. And also make sure you are not "
+"already accountable to this request."
+msgstr ""
+
+#: users/views/verification.py:203
+msgid "File not found. It may have been deleted"
+msgstr ""
+
+#~ msgid "Pending Company Verification Request"
+#~ msgstr "درخواست احراز هویت شرکت در حال انتظار"
+
+#~ msgid "Pending Company Verification Requests"
+#~ msgstr "درخواست‌ احراز هویت شرکتهای در حال انتظار"
+
+#~ msgid "Draft"
+#~ msgstr "ارسال نشده"
+
+#~ msgid "Inspected By"
+#~ msgstr "بررسی‌کننده"
+
+#~ msgid "Inspector Note"
+#~ msgstr "یادداشت"
+
+#~ msgid "Inspector Vote"
+#~ msgstr "نظر بررسی‌کننده"
+
+#~ msgid "No company associated."
+#~ msgstr "شرکت وجود ندارد"
+
+#, python-brace-format
+#~ msgid "A verification email will be sent in a few minutes to \"{email}\"."
+#~ msgstr "یک ایمیل تایید به آدرس \"{email}\" ارسال شد"
+
+#, python-brace-format
+#~ msgid ""
+#~ "If the user exists, a verification email will be sent in a few minutes to "
+#~ "\"{email}\"."
+#~ msgstr ""
+#~ "اگر کاربری با این آدرس وجود داشته باشد، یک ایمیل تایید برای آن ارسال می‌شود"
